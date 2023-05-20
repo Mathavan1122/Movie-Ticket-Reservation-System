@@ -1,0 +1,5 @@
+31702|Nicole|0198561234|123@gmail.com|Avengers|MON|0900|a|(a,1)(a,2)(a,3)(a,4)(a,5)(a,6)(b,1)(b,2)(b,3)(b,4)
+27794|Ali|0185670097|ali@gmail.com|Dune|FRI|1000|b|(d,1)
+17701|Elon Musk|0190018007|em@gmail.com|Spaced Invaders|SAT|0200|a|(a,2)(a,4)
+28103|Tom Hank|0175671123|tom@gmail.com|Spiderman|THU|0930|a|(e,6)
+32666|Sarah|0123456789|s@gmail.com|Avengers|WED|1100|a|(a,1)
